@@ -31,7 +31,9 @@ diamonds_subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-
+write fancy codetools::checkUsage()
+more words
+##here are comments
 
 ```
 
