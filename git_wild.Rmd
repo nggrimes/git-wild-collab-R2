@@ -32,7 +32,9 @@ diamonds_subset <- diamonds %>%
 
 ```{r break-it-1}
 ### Here is some new stuff~~
-### my fancy code goes here, it is way better than Nathan's code
+write fancy codetools::checkUsage()
+more words
+##here are comments
 ```
 
 ## STEP 11: And even more merge conflicts!
